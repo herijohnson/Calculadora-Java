@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 </div>
 <div style="display: inline_block">
   <h1>React - GitHub Wiki Project</h1>
@@ -15,3 +16,15 @@
  	<a href="https://www.twitch.tv/stephenroque" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:stephen.roque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+=======
+# Wiki do Github
+
+
+
+Neste projeto foi aprendido sobre consumo de apis.
+
+Utilizando uma api podemos guardar dados, informações uteis e buscar essas informações.
+
+
+
+>>>>>>> b943e85d4d142fb89f455db98fcc637a1a71ab87
