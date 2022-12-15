@@ -8,7 +8,6 @@ function ItemRepo({repo, handleRemoveRepo}) {
     handleRemoveRepo(repo.id)
   }
 
-
   return (
     <ItemContainer onClick={handleRemove}>
         <h3>{repo.name}</h3>
